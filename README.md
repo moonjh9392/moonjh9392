@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Moon's%20profile&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Moon's%20profile&fontSize=60)
 
 
 ### 🔨 Tech Stack
@@ -9,7 +9,7 @@
 #### Deploy
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
 
 
 
