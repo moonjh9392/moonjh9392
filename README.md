@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Moon's%20profile&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Moon's%20profile&fontSize=60)
 
 
 ### 🔨 Tech Stack
