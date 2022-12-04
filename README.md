@@ -15,8 +15,12 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
 </div>
 
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjh9392&show_icons=true&theme=Default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonjh9392&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
